@@ -34,7 +34,7 @@ This project aims to design and develop an ESP32-based biometric attendance solu
 - Attendance status display
 - Wi-Fi support for future cloud integration
 
-## 📂 Repository Structure
+##  Repository Structure
 - **code/** – Firmware (future)
 - **circuit/** – Hardware diagrams
 - **documentation/** – Design files
